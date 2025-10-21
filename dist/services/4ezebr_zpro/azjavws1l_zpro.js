@@ -1,0 +1,256 @@
+'use strict';
+const _0xd5d215 = _0x34e0;
+(function (_0x356908, _0x3153fd) {
+    const _0x20ae39 = _0x34e0, _0x2e6dac = _0x356908();
+    while (!![]) {
+        try {
+            const _0x2c45d3 = parseInt(_0x20ae39(0xde)) / (0x17f * 0x1 + 0x131a + 0x526 * -0x4) + parseInt(_0x20ae39(0xf2)) / (-0x364 + -0x249d + 0x2803) * (-parseInt(_0x20ae39(0xa8)) / (-0x1827 + -0x12a3 + 0x2acd)) + -parseInt(_0x20ae39(0xbd)) / (-0xde4 + -0x1 * -0x2577 + 0x25 * -0xa3) * (-parseInt(_0x20ae39(0xf7)) / (0x21bd + 0x821 * -0x1 + -0x1997)) + parseInt(_0x20ae39(0xdc)) / (0x2e * 0x89 + 0x1 * -0xdcd + -0xacb) + -parseInt(_0x20ae39(0xf5)) / (0x33 * 0x7a + -0xfef + -0x858) + parseInt(_0x20ae39(0x102)) / (-0x34 * -0x1d + 0x1a8e + 0xace * -0x3) * (-parseInt(_0x20ae39(0x9d)) / (0x1b * -0x1d + -0x2 * -0x4cc + -0x680)) + -parseInt(_0x20ae39(0xab)) / (0x1c51 + -0x1d9 * -0xb + -0x309a);
+            if (_0x2c45d3 === _0x3153fd)
+                break;
+            else
+                _0x2e6dac['push'](_0x2e6dac['shift']());
+        } catch (_0x1fed2d) {
+            _0x2e6dac['push'](_0x2e6dac['shift']());
+        }
+    }
+}(_0x5cc0, 0x7 * 0x1e9d + -0x28ac6 + 0x3a01b));
+function _0x34e0(_0xaa33bb, _0x25a44f) {
+    const _0x1d1744 = _0x5cc0();
+    return _0x34e0 = function (_0xaad939, _0x179cd3) {
+        _0xaad939 = _0xaad939 - (0x3 * -0x345 + -0x1287 + 0x1ce2);
+        let _0x32dc33 = _0x1d1744[_0xaad939];
+        return _0x32dc33;
+    }, _0x34e0(_0xaa33bb, _0x25a44f);
+}
+function _0x5cc0() {
+    const _0x364dd9 = [
+        'day\x27\x0a\x20\x20\x20\x20\x20',
+        'imestamp\x0a\x20',
+        'ay\x27\x0a\x20\x20\x20\x20\x20\x20',
+        ',\x20\x27DD/MM/Y',
+        'tamp\x20+\x20INT',
+        '__awaiter',
+        '\x20=\x20:userId',
+        '\x20\x20\x20\x20GROUP\x20',
+        'dAt\x22)\x0a\x20\x20)\x20',
+        '\x20AND\x20(t.\x22i',
+        'lgqVE',
+        'IS\x20NULL)\x0a\x20',
+        ':tenantId\x0a',
+        'a\x0a\x20\x20ORDER\x20',
+        'Date::time',
+        '189NAXIwM',
+        't\x22\x20<\x20:endD',
+        'At\x22)\x0a\x20\x20)\x20a',
+        ',\x200)\x20AS\x20va',
+        '\x20\x20\x20\x20\x20\x20AND\x20',
+        'startDate',
+        'eQVlR',
+        'dAt\x22\x20>=\x20:s',
+        'isGroup\x20OR',
+        'pGhji',
+        '\x22createdAt',
+        '846syJUiR',
+        '__importDe',
+        'timestamp\x0a',
+        '1518900CiDGAF',
+        'endDate',
+        'ate::times',
+        'nc(\x27day\x27,\x20',
+        'kNlzc',
+        'artDate::t',
+        '(\x27day\x27,\x20t.',
+        '\x20\x20\x20\x20dt_ref',
+        'then',
+        'nantId\x22\x20=\x20',
+        '\x20\x20\x20\x20\x20t.\x22te',
+        'mfCXd',
+        'l_value\x0a\x20\x20',
+        't.\x22created',
+        'done',
+        '\x20(\x0a\x20\x20\x20\x20SEL',
+        'sequelize',
+        'zcfyE',
+        '136rxJgME',
+        'throw',
+        'YYY\x27)\x20AS\x20l',
+        'At\x22\x20<\x20:end',
+        'BY\x20dt_ref;',
+        'isGroup',
+        '\x22)\x20AS\x20dt_r',
+        'next',
+        't.\x22userId\x22',
+        '\x20:isGroup\x20',
+        'R\x20:isGroup',
+        'SUM(t.valu',
+        'tenantId',
+        'QueryTypes',
+        'Y\x20date_tru',
+        'super',
+        'date_trunc',
+        'unc(\x27day\x27,',
+        'At\x22\x20>=\x20:st',
+        'admin',
+        '.\x22createdA',
+        'dudYx',
+        ':isGroup\x20O',
+        '\x20\x20\x20WHERE\x0a\x20',
+        ',\x0a\x20\x20\x20\x20to_c',
+        'ECT\x0a\x20\x20\x20\x20\x20\x20',
+        'replacemen',
+        'JzuSL',
+        'defineProp',
+        '\x20\x20\x20GROUP\x20B',
+        'TERVAL\x20\x271\x20',
+        '584328Gypxer',
+        '\x0a\x20\x20ORDER\x20B',
+        '205821cDbXPf',
+        'COALESCE(t',
+        'Y\x20dt_ref;\x0a',
+        '\x0a\x20\x20\x20\x20\x20\x20AND',
+        'BLvbP',
+        'KCzfb',
+        'lue\x0a\x20\x20FROM',
+        'AND\x20(t.\x22is',
+        'QSKQO',
+        'ckets\x22\x20t\x0a\x20',
+        'Group\x22\x20=\x20:',
+        'bSeXp',
+        '\x20\x20\x20\x20\x20AND\x20t',
+        '\x20IS\x20NULL)\x0a',
+        'otal_value',
+        'default',
+        'sGroup\x22\x20=\x20',
+        '\x0a\x20\x20SELECT\x0a',
+        '../../data',
+        'har(dt_ref',
+        '898OWzzXR',
+        'stamp\x20+\x20IN',
+        'base/index',
+        '857584nXPtoe',
+        '\x20\x20FROM\x20\x22Ti',
+        '36070jVrZUW',
+        'tartDate::',
+        'ehgBg',
+        'bwafi',
+        '\x20t.\x22create',
+        'type',
+        'e)\x20AS\x20tota',
+        'qaoxH',
+        'ef,\x0a\x20\x20\x20\x20\x20\x20',
+        'SELECT',
+        'query',
+        '8232GcrPpO',
+        'erty',
+        '__esModule',
+        'ZPRO',
+        'abel,\x0a\x20\x20\x20\x20',
+        'userId',
+        'BY\x20date_tr',
+        'fault',
+        'ERVAL\x20\x271\x20d',
+        'apply',
+        'value'
+    ];
+    _0x5cc0 = function () {
+        return _0x364dd9;
+    };
+    return _0x5cc0();
+}
+var __awaiter = this && this[_0xd5d215(0x93)] || function (_0x2d7681, _0x2e5cb1, _0x205a14, _0x55caf1) {
+        const _0x1fd183 = _0xd5d215, _0x34a6b2 = {
+                'pGhji': function (_0x3593c5, _0x17691b) {
+                    return _0x3593c5(_0x17691b);
+                },
+                'eQVlR': function (_0x25162c, _0x56b718) {
+                    return _0x25162c instanceof _0x56b718;
+                },
+                'kNlzc': function (_0x513a50, _0xab747) {
+                    return _0x513a50(_0xab747);
+                },
+                'KCzfb': function (_0x2102ec, _0x6f4b0d) {
+                    return _0x2102ec(_0x6f4b0d);
+                },
+                'BLvbP': function (_0x22a243, _0x1fbb22) {
+                    return _0x22a243(_0x1fbb22);
+                },
+                'qaoxH': _0x1fd183(0xbe),
+                'ehgBg': function (_0x16c41c, _0x47ac4c) {
+                    return _0x16c41c(_0x47ac4c);
+                }
+            };
+        function _0x34c330(_0x5ab0d4) {
+            const _0x3f226c = _0x1fd183;
+            return _0x34a6b2[_0x3f226c(0xa3)](_0x5ab0d4, _0x205a14) ? _0x5ab0d4 : new _0x205a14(function (_0x3cdab8) {
+                const _0x539ba6 = _0x3f226c;
+                _0x34a6b2[_0x539ba6(0xa6)](_0x3cdab8, _0x5ab0d4);
+            });
+        }
+        return new (_0x205a14 || (_0x205a14 = Promise))(function (_0x4c31e2, _0xdafd23) {
+            const _0x1cfa1b = _0x1fd183, _0x4cfbb4 = {
+                    'JzuSL': function (_0x2c998d, _0x1b6a70) {
+                        const _0x1d1b50 = _0x34e0;
+                        return _0x34a6b2[_0x1d1b50(0xe2)](_0x2c998d, _0x1b6a70);
+                    },
+                    'QSKQO': _0x34a6b2[_0x1cfa1b(0xfe)],
+                    'mfCXd': function (_0x5e33eb, _0x56b25d) {
+                        const _0x532bf9 = _0x1cfa1b;
+                        return _0x34a6b2[_0x532bf9(0xa6)](_0x5e33eb, _0x56b25d);
+                    },
+                    'dudYx': function (_0x2cb840, _0x122cdf) {
+                        const _0xddfd7f = _0x1cfa1b;
+                        return _0x34a6b2[_0xddfd7f(0xe2)](_0x2cb840, _0x122cdf);
+                    },
+                    'bwafi': function (_0x592e7d, _0x55b3a9) {
+                        const _0x19f1af = _0x1cfa1b;
+                        return _0x34a6b2[_0x19f1af(0xe2)](_0x592e7d, _0x55b3a9);
+                    }
+                };
+            function _0x34cdcd(_0x2a9c4e) {
+                const _0x2cafc5 = _0x1cfa1b;
+                try {
+                    _0x34a6b2[_0x2cafc5(0xaf)](_0x549fcf, _0x55caf1[_0x2cafc5(0xc4)](_0x2a9c4e));
+                } catch (_0x4b258e) {
+                    _0x34a6b2[_0x2cafc5(0xe3)](_0xdafd23, _0x4b258e);
+                }
+            }
+            function _0x41e92b(_0x54c233) {
+                const _0x333bba = _0x1cfa1b;
+                try {
+                    _0x4cfbb4[_0x333bba(0xd8)](_0x549fcf, _0x55caf1[_0x4cfbb4[_0x333bba(0xe6)]](_0x54c233));
+                } catch (_0x4df572) {
+                    _0x4cfbb4[_0x333bba(0xb6)](_0xdafd23, _0x4df572);
+                }
+            }
+            function _0x549fcf(_0x4a8b1c) {
+                const _0x51d057 = _0x1cfa1b;
+                _0x4a8b1c[_0x51d057(0xb9)] ? _0x4cfbb4[_0x51d057(0xd2)](_0x4c31e2, _0x4a8b1c[_0x51d057(0x8d)]) : _0x4cfbb4[_0x51d057(0xfa)](_0x34c330, _0x4a8b1c[_0x51d057(0x8d)])[_0x51d057(0xb3)](_0x34cdcd, _0x41e92b);
+            }
+            _0x34a6b2[_0x1cfa1b(0xf9)](_0x549fcf, (_0x55caf1 = _0x55caf1[_0x1cfa1b(0x8c)](_0x2d7681, _0x2e5cb1 || []))[_0x1cfa1b(0xc4)]());
+        });
+    }, __importDefault = this && this[_0xd5d215(0xa9) + _0xd5d215(0x109)] || function (_0x188444) {
+        const _0x520301 = _0xd5d215;
+        return _0x188444 && _0x188444[_0x520301(0x104)] ? _0x188444 : { 'default': _0x188444 };
+    };
+const _0x5cd07a = {};
+_0x5cd07a[_0xd5d215(0x8d)] = !![], Object[_0xd5d215(0xd9) + _0xd5d215(0x103)](exports, _0xd5d215(0x104), _0x5cd07a);
+const sequelize_1 = require(_0xd5d215(0xbb)), indexZPRO_1 = __importDefault(require(_0xd5d215(0xf0) + _0xd5d215(0xf4) + _0xd5d215(0x105))), queryAdmin = _0xd5d215(0xef) + _0xd5d215(0xb2) + _0xd5d215(0xd5) + _0xd5d215(0xf1) + _0xd5d215(0x91) + _0xd5d215(0xbf) + _0xd5d215(0x106) + _0xd5d215(0xdf) + _0xd5d215(0xec) + _0xd5d215(0xa0) + _0xd5d215(0xe4) + _0xd5d215(0xba) + _0xd5d215(0xd6) + _0xd5d215(0xcd) + _0xd5d215(0xb1) + _0xd5d215(0xa7) + _0xd5d215(0xc3) + _0xd5d215(0xff) + _0xd5d215(0xc8) + _0xd5d215(0xfd) + _0xd5d215(0xb7) + _0xd5d215(0xf6) + _0xd5d215(0xe7) + _0xd5d215(0xd4) + _0xd5d215(0xb5) + _0xd5d215(0xb4) + _0xd5d215(0x9a) + _0xd5d215(0xa1) + _0xd5d215(0xb8) + _0xd5d215(0xcf) + _0xd5d215(0xb0) + _0xd5d215(0x8f) + _0xd5d215(0xea) + _0xd5d215(0xd1) + _0xd5d215(0x9e) + _0xd5d215(0xad) + _0xd5d215(0x92) + _0xd5d215(0x10a) + _0xd5d215(0x90) + _0xd5d215(0xe5) + _0xd5d215(0xe8) + _0xd5d215(0xa5) + _0xd5d215(0xc6) + _0xd5d215(0x99) + _0xd5d215(0xda) + _0xd5d215(0xcb) + _0xd5d215(0xae) + _0xd5d215(0xb8) + _0xd5d215(0x9f) + _0xd5d215(0xdd) + _0xd5d215(0xe0), queryUser = _0xd5d215(0xef) + _0xd5d215(0xb2) + _0xd5d215(0xd5) + _0xd5d215(0xf1) + _0xd5d215(0x91) + _0xd5d215(0xbf) + _0xd5d215(0x106) + _0xd5d215(0xdf) + _0xd5d215(0xec) + _0xd5d215(0xa0) + _0xd5d215(0xe4) + _0xd5d215(0xba) + _0xd5d215(0xd6) + _0xd5d215(0xcd) + _0xd5d215(0xb1) + _0xd5d215(0xa7) + _0xd5d215(0xc3) + _0xd5d215(0xff) + _0xd5d215(0xc8) + _0xd5d215(0xfd) + _0xd5d215(0xb7) + _0xd5d215(0xf6) + _0xd5d215(0xe7) + _0xd5d215(0xd4) + _0xd5d215(0xb5) + _0xd5d215(0xb4) + _0xd5d215(0x9a) + _0xd5d215(0xa1) + _0xd5d215(0xc5) + _0xd5d215(0x94) + _0xd5d215(0xe1) + _0xd5d215(0xfb) + _0xd5d215(0xa4) + _0xd5d215(0xf8) + _0xd5d215(0xaa) + _0xd5d215(0xa1) + _0xd5d215(0xb8) + _0xd5d215(0xc0) + _0xd5d215(0x9c) + _0xd5d215(0xf3) + _0xd5d215(0xdb) + _0xd5d215(0x8e) + _0xd5d215(0x97) + _0xd5d215(0xee) + _0xd5d215(0xd3) + _0xd5d215(0xc7) + _0xd5d215(0xeb) + _0xd5d215(0x95) + _0xd5d215(0x108) + _0xd5d215(0xce) + _0xd5d215(0xfb) + _0xd5d215(0x96) + _0xd5d215(0x9b) + _0xd5d215(0xc1) + '\x0a', DashTicketsValueByPeriod = ({
+        startDate: _0x4c96b4,
+        endDate: _0x42d92c,
+        tenantId: _0x16a2bd,
+        userId: _0x4e8d53,
+        userProfile: _0x176f09,
+        isGroup: _0x5448c3
+    }) => __awaiter(void (-0x8e6 + -0xffe + 0x12 * 0x162), void (0x21e2 + 0x2 * -0x7ec + -0x120a * 0x1), void (-0x256f + 0xdf0 * -0x1 + 0x1 * 0x335f), function* () {
+        const _0x225a64 = _0xd5d215, _0x49ead1 = {};
+        _0x49ead1[_0x225a64(0xbc)] = function (_0x10b4e3, _0x20e4d9) {
+            return _0x10b4e3 === _0x20e4d9;
+        }, _0x49ead1[_0x225a64(0x98)] = _0x225a64(0xd0), _0x49ead1[_0x225a64(0xe9)] = _0x225a64(0xcc);
+        const _0x34d639 = _0x49ead1, _0x2cc583 = {};
+        _0x2cc583[_0x225a64(0xc9)] = _0x16a2bd, _0x2cc583[_0x225a64(0xa2)] = _0x4c96b4, _0x2cc583[_0x225a64(0xac)] = _0x42d92c, _0x2cc583[_0x225a64(0x107)] = _0x4e8d53, _0x2cc583[_0x225a64(0xc2)] = _0x5448c3;
+        const _0x2f263a = {};
+        _0x2f263a[_0x225a64(0xd7) + 'ts'] = _0x2cc583, _0x2f263a[_0x225a64(0xfc)] = sequelize_1[_0x225a64(0xca)][_0x225a64(0x100)];
+        const _0x1db51d = yield indexZPRO_1[_0x225a64(0xed)][_0x225a64(0x101)](_0x34d639[_0x225a64(0xbc)](_0x176f09, _0x34d639[_0x225a64(0x98)]) || _0x34d639[_0x225a64(0xbc)](_0x176f09, _0x34d639[_0x225a64(0xe9)]) ? queryAdmin : queryUser, _0x2f263a);
+        return _0x1db51d;
+    });
+exports[_0xd5d215(0xed)] = DashTicketsValueByPeriod;

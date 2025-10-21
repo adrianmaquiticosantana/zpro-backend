@@ -1,0 +1,265 @@
+'use strict';
+const _0x2f839c = _0x14c0;
+(function (_0x538547, _0x7f2c28) {
+    const _0x162a7f = _0x14c0, _0x5ee868 = _0x538547();
+    while (!![]) {
+        try {
+            const _0x5439ba = parseInt(_0x162a7f(0x118)) / (0x16f2 + -0x997 + 0x2 * -0x6ad) * (parseInt(_0x162a7f(0x14a)) / (-0x15d6 + 0xbce + 0xa0a)) + -parseInt(_0x162a7f(0x115)) / (-0xd * -0x4e + -0x2a * -0x2d + -0xb55) + parseInt(_0x162a7f(0x132)) / (-0x1c * -0x5c + -0x27c * 0x7 + -0x1 * -0x758) + -parseInt(_0x162a7f(0x112)) / (-0xff6 + -0x47c * 0x1 + 0x1477 * 0x1) + parseInt(_0x162a7f(0x11c)) / (-0xe3 * -0x29 + 0x3 * 0x8a9 + -0x3e50) * (parseInt(_0x162a7f(0x12c)) / (-0x74 * -0x3b + -0x1 * 0x20c5 + 0xc2 * 0x8)) + parseInt(_0x162a7f(0x143)) / (0x1 * -0x5d + -0x1 * 0x68c + 0x6f1 * 0x1) + -parseInt(_0x162a7f(0x138)) / (0x220a + -0x8df + 0x1922 * -0x1);
+            if (_0x5439ba === _0x7f2c28)
+                break;
+            else
+                _0x5ee868['push'](_0x5ee868['shift']());
+        } catch (_0x361f4c) {
+            _0x5ee868['push'](_0x5ee868['shift']());
+        }
+    }
+}(_0xea2b, 0xe96a9 + -0x1b741 * 0x1 + -0x371 * 0x123));
+function _0xea2b() {
+    const _0x264d0c = [
+        'then',
+        'caHkY',
+        'onIWX',
+        'UHbQH',
+        'select\x20max',
+        'query',
+        'sair',
+        'zwgDZ',
+        'map',
+        'reiniciar',
+        'YTkKM',
+        'tart',
+        'eZMZE',
+        'LEOpW',
+        'rom\x20\x22Setti',
+        'next',
+        'JsonFilena',
+        'mid',
+        'mNFHb',
+        'Language',
+        'Settings',
+        'LTtKj',
+        'Paoeh',
+        'oZAOQ',
+        'apply',
+        'ProjectId',
+        'YJmJR',
+        'pt-br',
+        '2761645lZwVSy',
+        'value',
+        'QueryTypes',
+        '2380977mAzRza',
+        'Json',
+        'azVCI',
+        '1583qCHpkq',
+        'k9j',
+        '__awaiter',
+        'bulkInsert',
+        '112146RNwRHe',
+        'fDlao',
+        'erty',
+        'nts\x22',
+        'ogSTk',
+        'SELECT\x20id\x20',
+        'Expire',
+        'bzaZD',
+        'exports',
+        'Conteudo\x20d',
+        'drwCM',
+        'Restart',
+        'type',
+        'UzyxK',
+        'ngs\x22',
+        'qgIsn',
+        '280ZxCima',
+        '(id)\x20mId\x20f',
+        'apzsq',
+        'k9j-bcbc47',
+        'throw',
+        'dICSU',
+        '3859980VftoUb',
+        'dialogflow',
+        'assign',
+        'defineProp',
+        'sequelize',
+        'FROM\x20\x22Tena',
+        '10381140YOtxJp',
+        '__esModule',
+        'o\x20JSON',
+        'IGxae',
+        'LwoSU',
+        'done',
+        'LbSdx',
+        'pIQUU',
+        'YgMMI',
+        'SELECT',
+        '9cbf1b.jso',
+        '2520312rNtrgT',
+        'disabled',
+        'Off',
+        'NaCRg',
+        'zfBBA',
+        'all',
+        'typebotRes',
+        '1338balHsX',
+        'zdg-novo-a'
+    ];
+    _0xea2b = function () {
+        return _0x264d0c;
+    };
+    return _0xea2b();
+}
+var __awaiter = this && this[_0x2f839c(0x11a)] || function (_0x5a2ff6, _0x5b6576, _0x4f2614, _0x227d7a) {
+    const _0x3cf4e3 = _0x2f839c, _0x2f14b5 = {
+            'eZMZE': function (_0x31d40b, _0x203938) {
+                return _0x31d40b(_0x203938);
+            },
+            'zwgDZ': function (_0x3d6b17, _0x5ce574) {
+                return _0x3d6b17 instanceof _0x5ce574;
+            },
+            'apzsq': function (_0x3c2261, _0x551a51) {
+                return _0x3c2261(_0x551a51);
+            },
+            'YgMMI': function (_0x2e7393, _0x3f6e67) {
+                return _0x2e7393(_0x3f6e67);
+            },
+            'LbSdx': _0x3cf4e3(0x130)
+        };
+    function _0x2b0126(_0x5f3d00) {
+        const _0x5a8313 = _0x3cf4e3;
+        return _0x2f14b5[_0x5a8313(0x153)](_0x5f3d00, _0x4f2614) ? _0x5f3d00 : new _0x4f2614(function (_0x51ea14) {
+            const _0x341fb0 = _0x5a8313;
+            _0x2f14b5[_0x341fb0(0x158)](_0x51ea14, _0x5f3d00);
+        });
+    }
+    return new (_0x4f2614 || (_0x4f2614 = Promise))(function (_0x23caa7, _0x1f0dd8) {
+        const _0x59c909 = _0x3cf4e3, _0x442517 = {
+                'YJmJR': function (_0x5530c5, _0x1410cf) {
+                    const _0xe287ec = _0x14c0;
+                    return _0x2f14b5[_0xe287ec(0x158)](_0x5530c5, _0x1410cf);
+                },
+                'IGxae': _0x2f14b5[_0x59c909(0x13e)]
+            };
+        function _0x8621aa(_0x1efcef) {
+            const _0x418012 = _0x59c909;
+            try {
+                _0x2f14b5[_0x418012(0x158)](_0xc0ce30, _0x227d7a[_0x418012(0x15b)](_0x1efcef));
+            } catch (_0x4c20f) {
+                _0x2f14b5[_0x418012(0x12e)](_0x1f0dd8, _0x4c20f);
+            }
+        }
+        function _0x57c722(_0x1429b8) {
+            const _0x4f66d3 = _0x59c909;
+            try {
+                _0x442517[_0x4f66d3(0x110)](_0xc0ce30, _0x227d7a[_0x442517[_0x4f66d3(0x13b)]](_0x1429b8));
+            } catch (_0x17cd19) {
+                _0x442517[_0x4f66d3(0x110)](_0x1f0dd8, _0x17cd19);
+            }
+        }
+        function _0xc0ce30(_0xb4c8cf) {
+            const _0x36302a = _0x59c909;
+            _0xb4c8cf[_0x36302a(0x13d)] ? _0x2f14b5[_0x36302a(0x158)](_0x23caa7, _0xb4c8cf[_0x36302a(0x113)]) : _0x2f14b5[_0x36302a(0x140)](_0x2b0126, _0xb4c8cf[_0x36302a(0x113)])[_0x36302a(0x14c)](_0x8621aa, _0x57c722);
+        }
+        _0x2f14b5[_0x59c909(0x158)](_0xc0ce30, (_0x227d7a = _0x227d7a[_0x59c909(0x10e)](_0x5a2ff6, _0x5b6576 || []))[_0x59c909(0x15b)]());
+    });
+};
+const _0x51a703 = {};
+function _0x14c0(_0x58b09d, _0x227784) {
+    const _0x54d390 = _0xea2b();
+    return _0x14c0 = function (_0xbc68e2, _0x27af78) {
+        _0xbc68e2 = _0xbc68e2 - (-0x768 + 0x1eb6 + -0x1646);
+        let _0x20a138 = _0x54d390[_0xbc68e2];
+        return _0x20a138;
+    }, _0x14c0(_0x58b09d, _0x227784);
+}
+_0x51a703[_0x2f839c(0x113)] = !![], Object[_0x2f839c(0x135) + _0x2f839c(0x11e)](exports, _0x2f839c(0x139), _0x51a703);
+const sequelize_1 = require(_0x2f839c(0x136));
+module[_0x2f839c(0x124)] = {
+    'up': _0x33f007 => __awaiter(void (0x124c + -0x1af9 + 0x8ad * 0x1), void (-0x1ec1 + -0x1d80 + 0x3c41), void (0x10db * -0x1 + -0x1 * -0x1a4 + 0xf37), function* () {
+        const _0x375202 = _0x2f839c, _0x27b5d6 = {};
+        _0x27b5d6[_0x375202(0x146)] = function (_0x2555ad, _0x246dd7) {
+            return _0x2555ad + _0x246dd7;
+        }, _0x27b5d6[_0x375202(0x129)] = _0x375202(0x149) + _0x375202(0x157), _0x27b5d6[_0x375202(0x156)] = _0x375202(0x155), _0x27b5d6[_0x375202(0x120)] = _0x375202(0x133), _0x27b5d6[_0x375202(0x11d)] = _0x375202(0x144), _0x27b5d6[_0x375202(0x10b)] = _0x375202(0x133) + _0x375202(0x15c) + 'me', _0x27b5d6[_0x375202(0x12b)] = _0x375202(0x14b) + _0x375202(0x12f) + _0x375202(0x142) + 'n', _0x27b5d6[_0x375202(0x108)] = _0x375202(0x133) + _0x375202(0x116), _0x27b5d6[_0x375202(0x10d)] = _0x375202(0x125) + _0x375202(0x13a), _0x27b5d6[_0x375202(0x126)] = _0x375202(0x133) + _0x375202(0x10f), _0x27b5d6[_0x375202(0x14d)] = _0x375202(0x14b) + _0x375202(0x119), _0x27b5d6[_0x375202(0x14e)] = _0x375202(0x133) + _0x375202(0x109), _0x27b5d6[_0x375202(0x131)] = _0x375202(0x111), _0x27b5d6[_0x375202(0x117)] = _0x375202(0x133) + _0x375202(0x145), _0x27b5d6[_0x375202(0x147)] = _0x375202(0x152), _0x27b5d6[_0x375202(0x10c)] = _0x375202(0x133) + _0x375202(0x127), _0x27b5d6[_0x375202(0x123)] = _0x375202(0x133) + _0x375202(0x122), _0x27b5d6[_0x375202(0x13f)] = _0x375202(0x10a), _0x27b5d6[_0x375202(0x159)] = _0x375202(0x121) + _0x375202(0x137) + _0x375202(0x11f), _0x27b5d6[_0x375202(0x14f)] = _0x375202(0x150) + _0x375202(0x12d) + _0x375202(0x15a) + _0x375202(0x12a);
+        const _0x3a232a = _0x27b5d6, _0x544fd4 = {};
+        _0x544fd4[_0x375202(0x128)] = sequelize_1[_0x375202(0x114)][_0x375202(0x141)];
+        const _0x238494 = yield _0x33f007[_0x375202(0x136)][_0x375202(0x151)](_0x3a232a[_0x375202(0x159)], _0x544fd4), _0x15926e = {};
+        _0x15926e[_0x375202(0x128)] = sequelize_1[_0x375202(0x114)][_0x375202(0x141)];
+        const _0x2aa871 = yield _0x33f007[_0x375202(0x136)][_0x375202(0x151)](_0x3a232a[_0x375202(0x14f)], _0x15926e);
+        yield Promise[_0x375202(0x148)](_0x238494[_0x375202(0x154)]((_0x4b3b67, _0x2f236d) => __awaiter(void (-0xf8b + 0x1 * -0x1031 + 0x1fbc), void (-0xb34 + -0x1 * -0x3dd + 0x757), void (-0x1613 + 0x1 * 0xc9d + 0x976), function* () {
+            const _0x2f95d4 = _0x375202, {id: _0x1d2b0b} = _0x4b3b67, _0xf0d326 = [
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x129)],
+                        'value': _0x3a232a[_0x2f95d4(0x156)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x120)],
+                        'value': _0x3a232a[_0x2f95d4(0x11d)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x10b)],
+                        'value': _0x3a232a[_0x2f95d4(0x12b)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x108)],
+                        'value': _0x3a232a[_0x2f95d4(0x10d)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x126)],
+                        'value': _0x3a232a[_0x2f95d4(0x14d)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x14e)],
+                        'value': _0x3a232a[_0x2f95d4(0x131)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x117)],
+                        'value': _0x3a232a[_0x2f95d4(0x147)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x10c)],
+                        'value': _0x3a232a[_0x2f95d4(0x156)],
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    },
+                    {
+                        'key': _0x3a232a[_0x2f95d4(0x123)],
+                        'value': 0x14,
+                        'tenantId': _0x1d2b0b,
+                        'createdAt': new Date(),
+                        'updatedAt': new Date()
+                    }
+                ], _0x49adfe = _0xf0d326[_0x2f95d4(0x154)]((_0x52664c, _0x5339c4) => {
+                    const _0x494782 = _0x2f95d4;
+                    return Object[_0x494782(0x134)](Object[_0x494782(0x134)]({}, _0x52664c), { 'id': _0x3a232a[_0x494782(0x146)](_0x3a232a[_0x494782(0x146)](_0x3a232a[_0x494782(0x146)](_0x2aa871[0x1516 + 0x1750 + -0x2c66][_0x494782(0x15d)], _0x2f236d), -0x2 * -0x952 + -0x4f3 * -0x1 + -0x1796), _0x5339c4) });
+                });
+            yield _0x33f007[_0x2f95d4(0x11b)](_0x3a232a[_0x2f95d4(0x13f)], _0x49adfe);
+        })));
+    }),
+    'down': _0x5bc3b2 => __awaiter(void (0xdd5 + 0x6 * 0x1cf + 0x1 * -0x18af), void (-0x1 * -0x1502 + -0xe9 * -0xa + 0x52 * -0x5e), void (0x1475 + 0xe52 + -0x22c7), function* () {
+        const _0x29ab96 = _0x2f839c, _0x4bc47e = {};
+        _0x4bc47e[_0x29ab96(0x13c)] = _0x29ab96(0x121) + _0x29ab96(0x137) + _0x29ab96(0x11f);
+        const _0x1fa180 = _0x4bc47e, _0x40b474 = {};
+        _0x40b474[_0x29ab96(0x128)] = sequelize_1[_0x29ab96(0x114)][_0x29ab96(0x141)], yield _0x5bc3b2[_0x29ab96(0x136)][_0x29ab96(0x151)](_0x1fa180[_0x29ab96(0x13c)], _0x40b474);
+    })
+};

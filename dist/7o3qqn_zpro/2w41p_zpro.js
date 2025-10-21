@@ -1,0 +1,124 @@
+'use strict';
+const _0x3a5c3e = _0x18dc;
+function _0x4a9b() {
+    const _0x408fe7 = [
+        'output',
+        'error',
+        'zzjle',
+        ':::\x20ZDG\x20::',
+        '2291967reuvtp',
+        'erty',
+        '../bz7amw_',
+        ':::\x20Z-PRO\x20',
+        '276445DajRyw',
+        'staller/ff',
+        'value',
+        'ToJpeg',
+        'fault',
+        'existsSync',
+        'mpeg',
+        'ath',
+        'logger',
+        'outputForm',
+        '__importDe',
+        'bQyEW',
+        'inputForma',
+        'message',
+        'default',
+        'Input\x20file',
+        '2314972LwySzz',
+        '884012aToCsS',
+        '\x20does\x20not\x20',
+        '__esModule',
+        'peg',
+        'setFfmpegP',
+        'jOUYH',
+        'exist:\x20',
+        '@ffmpeg-in',
+        'defineProp',
+        'fluent-ffm',
+        'mLhEv',
+        '1077481OsHUEF',
+        'path',
+        'pVDdW',
+        'gZrTH',
+        'zpro/tvbp8',
+        '5501760uGKDxu',
+        '203vfKtLP',
+        '67212KBHUYq',
+        'dlkc2o_zpr',
+        '\x20Error:\x20',
+        'SiGqC',
+        'run',
+        'mjpeg',
+        'end',
+        'convertPng',
+        'image2',
+        ':\x20Encoding'
+    ];
+    _0x4a9b = function () {
+        return _0x408fe7;
+    };
+    return _0x4a9b();
+}
+function _0x18dc(_0x8b21c5, _0x598ded) {
+    const _0x3aa890 = _0x4a9b();
+    return _0x18dc = function (_0x2ede04, _0x136796) {
+        _0x2ede04 = _0x2ede04 - (-0x3 * 0xa57 + 0x9e * -0x5 + 0x2381);
+        let _0x5e70fc = _0x3aa890[_0x2ede04];
+        return _0x5e70fc;
+    }, _0x18dc(_0x8b21c5, _0x598ded);
+}
+(function (_0x540c57, _0x44ecca) {
+    const _0x454798 = _0x18dc, _0x32fcdc = _0x540c57();
+    while (!![]) {
+        try {
+            const _0xa74cc8 = parseInt(_0x454798(0x18a)) / (0x1 * -0x236d + -0x257f + 0x48ed) + -parseInt(_0x454798(0x17e)) / (0x1eab + 0x1481 * -0x1 + 0xa28 * -0x1) + parseInt(_0x454798(0x16a)) / (0x3ac * -0x4 + -0x1b00 + -0x1 * -0x29b3) + parseInt(_0x454798(0x17f)) / (-0x16a7 + 0xa * -0x1d3 + 0xda3 * 0x3) + parseInt(_0x454798(0x16e)) / (0x140b + -0x1312 + -0xf4) + parseInt(_0x454798(0x191)) / (-0x10f + -0x16d5 + 0x17ea) * (parseInt(_0x454798(0x190)) / (0x49 * -0x71 + -0x1afa * -0x1 + 0x36 * 0x19)) + -parseInt(_0x454798(0x18f)) / (0x3a * 0x8b + 0x1 * 0x1867 + 0x37dd * -0x1);
+            if (_0xa74cc8 === _0x44ecca)
+                break;
+            else
+                _0x32fcdc['push'](_0x32fcdc['shift']());
+        } catch (_0x2995ac) {
+            _0x32fcdc['push'](_0x32fcdc['shift']());
+        }
+    }
+}(_0x4a9b, -0x1f8ac + -0x8d05e + 0xaa * 0x1df8));
+var __importDefault = this && this[_0x3a5c3e(0x178) + _0x3a5c3e(0x172)] || function (_0x2d9bb7) {
+    const _0x30acef = _0x3a5c3e;
+    return _0x2d9bb7 && _0x2d9bb7[_0x30acef(0x181)] ? _0x2d9bb7 : { 'default': _0x2d9bb7 };
+};
+const _0xb4cfb0 = {};
+_0xb4cfb0[_0x3a5c3e(0x170)] = !![], Object[_0x3a5c3e(0x187) + _0x3a5c3e(0x16b)](exports, _0x3a5c3e(0x181), _0xb4cfb0), exports[_0x3a5c3e(0x198) + _0x3a5c3e(0x171)] = void (0x12ef + -0x52e + -0xdc1);
+const fluent_ffmpeg_1 = __importDefault(require(_0x3a5c3e(0x188) + _0x3a5c3e(0x182))), ffmpeg_1 = require(_0x3a5c3e(0x186) + _0x3a5c3e(0x16f) + _0x3a5c3e(0x174)), fs_1 = __importDefault(require('fs')), tvbp8dlkc2o_zpro_1 = require(_0x3a5c3e(0x16c) + _0x3a5c3e(0x18e) + _0x3a5c3e(0x192) + 'o'), convertPngToJpeg = (_0x3b705b, _0x135bc4) => {
+        const _0x470ca9 = _0x3a5c3e, _0x4451e7 = {
+                'bQyEW': function (_0x5d743c, _0x2ccb38) {
+                    return _0x5d743c(_0x2ccb38);
+                },
+                'pVDdW': function (_0x57424a) {
+                    return _0x57424a();
+                },
+                'gZrTH': function (_0x367ae4, _0x5a366e) {
+                    return _0x367ae4(_0x5a366e);
+                },
+                'zzjle': _0x470ca9(0x199),
+                'SiGqC': _0x470ca9(0x196),
+                'mLhEv': _0x470ca9(0x167),
+                'jOUYH': _0x470ca9(0x197)
+            };
+        return new Promise((_0x1b8656, _0x3cb491) => {
+            const _0x4e23eb = _0x470ca9;
+            fluent_ffmpeg_1[_0x4e23eb(0x17c)][_0x4e23eb(0x183) + _0x4e23eb(0x175)](ffmpeg_1[_0x4e23eb(0x18b)]);
+            if (!fs_1[_0x4e23eb(0x17c)][_0x4e23eb(0x173)](_0x3b705b)) {
+                const _0x1410e7 = _0x4e23eb(0x17d) + _0x4e23eb(0x180) + _0x4e23eb(0x185) + _0x3b705b;
+                return tvbp8dlkc2o_zpro_1[_0x4e23eb(0x176)][_0x4e23eb(0x167)](_0x1410e7), _0x4451e7[_0x4e23eb(0x18d)](_0x3cb491, new Error(_0x1410e7));
+            }
+            (-0xbf7 + 0x409 * -0x3 + 0x1 * 0x1812, fluent_ffmpeg_1[_0x4e23eb(0x17c)])(_0x3b705b)[_0x4e23eb(0x17a) + 't'](_0x4451e7[_0x4e23eb(0x168)])[_0x4e23eb(0x166)](_0x135bc4)[_0x4e23eb(0x177) + 'at'](_0x4451e7[_0x4e23eb(0x194)])['on'](_0x4451e7[_0x4e23eb(0x189)], _0x2e74be => {
+                const _0x49b3df = _0x4e23eb;
+                tvbp8dlkc2o_zpro_1[_0x49b3df(0x176)][_0x49b3df(0x167)](_0x49b3df(0x16d) + _0x49b3df(0x169) + _0x49b3df(0x19a) + _0x49b3df(0x193) + _0x2e74be[_0x49b3df(0x17b)]), _0x4451e7[_0x49b3df(0x179)](_0x3cb491, _0x2e74be);
+            })['on'](_0x4451e7[_0x4e23eb(0x184)], () => {
+                const _0x2a31ab = _0x4e23eb;
+                _0x4451e7[_0x2a31ab(0x18c)](_0x1b8656);
+            })[_0x4e23eb(0x195)]();
+        });
+    };
+exports[_0x3a5c3e(0x198) + _0x3a5c3e(0x171)] = convertPngToJpeg;

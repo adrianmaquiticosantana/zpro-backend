@@ -1,0 +1,113 @@
+'use strict';
+const _0x5bae67 = _0x46d2;
+(function (_0x203cfe, _0x156741) {
+    const _0x5db69f = _0x46d2, _0x5ad3c7 = _0x203cfe();
+    while (!![]) {
+        try {
+            const _0x312b31 = parseInt(_0x5db69f(0xe1)) / (0x3 * -0x3ad + -0x228a * -0x1 + -0x1782) * (-parseInt(_0x5db69f(0xf7)) / (-0x2372 + 0x200c + 0x6d * 0x8)) + -parseInt(_0x5db69f(0xe8)) / (-0x49 * 0x58 + -0xc3 + 0x19de) + parseInt(_0x5db69f(0xde)) / (0xcb8 + 0x1 * -0x16c3 + 0xa0f) + parseInt(_0x5db69f(0xdc)) / (0x26b * -0x8 + 0x371 * 0x7 + -0x4ba) * (parseInt(_0x5db69f(0xd9)) / (0x1290 + 0x471 * 0x5 + -0x28bf)) + -parseInt(_0x5db69f(0xf9)) / (-0x19bb * -0x1 + 0x6 * 0x54a + 0x1cb8 * -0x2) + parseInt(_0x5db69f(0xdb)) / (-0x3 * 0x6f7 + -0x1687 * 0x1 + 0x2b74) + parseInt(_0x5db69f(0xda)) / (-0x2121 + 0x1a54 + -0xfa * -0x7);
+            if (_0x312b31 === _0x156741)
+                break;
+            else
+                _0x5ad3c7['push'](_0x5ad3c7['shift']());
+        } catch (_0x4c2265) {
+            _0x5ad3c7['push'](_0x5ad3c7['shift']());
+        }
+    }
+}(_0x43ab, -0x4539c + -0x7d2fc + 0x12828f));
+const _0x2b4ef5 = {};
+_0x2b4ef5[_0x5bae67(0xf0)] = !![], Object[_0x5bae67(0xf5) + _0x5bae67(0xea)](exports, _0x5bae67(0xe3), _0x2b4ef5);
+const sequelize_1 = require(_0x5bae67(0xed));
+module[_0x5bae67(0xf8)] = {
+    'up': _0x5da690 => {
+        const _0x268b6f = _0x5bae67, _0x28ab00 = {};
+        _0x28ab00[_0x268b6f(0xee)] = _0x268b6f(0xec) + 's', _0x28ab00[_0x268b6f(0xd8)] = _0x268b6f(0xf6), _0x28ab00[_0x268b6f(0xf1)] = _0x268b6f(0xe6), _0x28ab00[_0x268b6f(0xef)] = _0x268b6f(0xe9);
+        const _0x53b415 = _0x28ab00, _0x14209b = {};
+        return _0x14209b[_0x268b6f(0xdf)] = sequelize_1[_0x268b6f(0xf4)][_0x268b6f(0xe7)], _0x14209b[_0x268b6f(0xf3)] = !![], _0x14209b[_0x268b6f(0xf2) + _0x268b6f(0xe4)] = !![], _0x14209b[_0x268b6f(0xe5)] = ![], _0x5da690[_0x268b6f(0xe2) + 'e'](_0x53b415[_0x268b6f(0xee)], {
+            'id': _0x14209b,
+            'queueId': {
+                'type': sequelize_1[_0x268b6f(0xf4)][_0x268b6f(0xe7)],
+                'references': {
+                    'model': _0x53b415[_0x268b6f(0xd8)],
+                    'key': 'id'
+                },
+                'onUpdate': _0x53b415[_0x268b6f(0xf1)],
+                'onDelete': _0x53b415[_0x268b6f(0xf1)],
+                'allowNull': ![]
+            },
+            'userId': {
+                'type': sequelize_1[_0x268b6f(0xf4)][_0x268b6f(0xe7)],
+                'references': {
+                    'model': _0x53b415[_0x268b6f(0xef)],
+                    'key': 'id'
+                },
+                'onUpdate': _0x53b415[_0x268b6f(0xf1)],
+                'onDelete': _0x53b415[_0x268b6f(0xf1)],
+                'allowNull': ![]
+            },
+            'createdAt': {
+                'type': sequelize_1[_0x268b6f(0xf4)][_0x268b6f(0xe0)],
+                'allowNull': ![]
+            },
+            'updatedAt': {
+                'type': sequelize_1[_0x268b6f(0xf4)][_0x268b6f(0xe0)],
+                'allowNull': ![]
+            }
+        });
+    },
+    'down': _0x50bfa0 => {
+        const _0x35d0f6 = _0x5bae67, _0x5d9f8c = {};
+        _0x5d9f8c[_0x35d0f6(0xeb)] = _0x35d0f6(0xec) + 's';
+        const _0x29bb12 = _0x5d9f8c;
+        return _0x50bfa0[_0x35d0f6(0xdd)](_0x29bb12[_0x35d0f6(0xeb)]);
+    }
+};
+function _0x46d2(_0x55296b, _0x4885a6) {
+    const _0x59cfac = _0x43ab();
+    return _0x46d2 = function (_0x26a3ec, _0x57339d) {
+        _0x26a3ec = _0x26a3ec - (0xb * 0x1e7 + 0x1 * -0x14fe + -0x1 * -0xe9);
+        let _0x186027 = _0x59cfac[_0x26a3ec];
+        return _0x186027;
+    }, _0x46d2(_0x55296b, _0x4885a6);
+}
+function _0x43ab() {
+    const _0x537484 = [
+        'value',
+        'FPQaD',
+        'autoIncrem',
+        'primaryKey',
+        'DataTypes',
+        'defineProp',
+        'Queues',
+        '20fMNsrr',
+        'exports',
+        '4668405RHejld',
+        'ZFXhQ',
+        '13206fJHPle',
+        '12984147aaVjLZ',
+        '161440GMbGDs',
+        '1420Tjficc',
+        'dropTable',
+        '1513908ouJgFK',
+        'type',
+        'DATE',
+        '57667uJePji',
+        'createTabl',
+        '__esModule',
+        'ent',
+        'allowNull',
+        'CASCADE',
+        'INTEGER',
+        '2418240iEktip',
+        'Users',
+        'erty',
+        'hQCBh',
+        'UsersQueue',
+        'sequelize',
+        'AJVhG',
+        'VDiyB'
+    ];
+    _0x43ab = function () {
+        return _0x537484;
+    };
+    return _0x43ab();
+}

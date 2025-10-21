@@ -1,0 +1,138 @@
+'use strict';
+const _0xe1398a = _0x513b;
+(function (_0x1b8dfd, _0x9083c2) {
+    const _0x25c715 = _0x513b, _0x185cfb = _0x1b8dfd();
+    while (!![]) {
+        try {
+            const _0x35e215 = -parseInt(_0x25c715(0x81)) / (0x19bf + 0x2 * 0x2bb + 0x7cd * -0x4) + parseInt(_0x25c715(0x88)) / (0x26d3 + -0x25e * 0x3 + -0x1fb7) * (parseInt(_0x25c715(0x80)) / (0x3 * 0xa6f + -0x2299 + -0x1 * -0x34f)) + -parseInt(_0x25c715(0x9b)) / (0x1108 + 0x1fa8 + -0x30ac) * (parseInt(_0x25c715(0x84)) / (-0x115a * -0x2 + -0x1 * -0x18ba + -0x43 * 0xe3)) + parseInt(_0x25c715(0x89)) / (0x5a7 * -0x5 + -0x8f9 * 0x1 + 0x2542) * (-parseInt(_0x25c715(0x8c)) / (-0x6ca + -0x2658 + 0x1 * 0x2d29)) + parseInt(_0x25c715(0x9a)) / (-0x1d13 + 0x1448 + 0x8d3) + parseInt(_0x25c715(0x8f)) / (-0x592 + 0x8a * 0x2c + -0x121d) + parseInt(_0x25c715(0x91)) / (-0x1761 + 0x542 + -0x1229 * -0x1);
+            if (_0x35e215 === _0x9083c2)
+                break;
+            else
+                _0x185cfb['push'](_0x185cfb['shift']());
+        } catch (_0x1d3a8b) {
+            _0x185cfb['push'](_0x185cfb['shift']());
+        }
+    }
+}(_0x57fa, 0x3a4b * -0xd + -0xde05 + 0x263 * 0x2b3));
+function _0x513b(_0x2d3844, _0xf80615) {
+    const _0x391842 = _0x57fa();
+    return _0x513b = function (_0x5ccdd2, _0xba7d) {
+        _0x5ccdd2 = _0x5ccdd2 - (0x14f * 0xd + 0x1 * 0x6fe + 0x1b * -0xdf);
+        let _0x1e6d45 = _0x391842[_0x5ccdd2];
+        return _0x1e6d45;
+    }, _0x513b(_0x2d3844, _0xf80615);
+}
+var __importDefault = this && this[_0xe1398a(0xa1) + _0xe1398a(0x7e)] || function (_0x1e2f5d) {
+    const _0x200ec3 = _0xe1398a;
+    return _0x1e2f5d && _0x1e2f5d[_0x200ec3(0xa6)] ? _0x1e2f5d : { 'default': _0x1e2f5d };
+};
+const _0x579067 = {};
+_0x579067[_0xe1398a(0xa4)] = !![], Object[_0xe1398a(0xa2) + _0xe1398a(0x97)](exports, _0xe1398a(0xa6), _0x579067), exports[_0xe1398a(0xa3) + _0xe1398a(0x90)] = void (0x2262 + 0xe * -0x119 + -0x1304);
+const fs_1 = __importDefault(require('fs')), path_1 = __importDefault(require(_0xe1398a(0x9f))), FRONTEND_PATH = path_1[_0xe1398a(0x96)][_0xe1398a(0xa5)](__dirname, '..', '..', '..', '..', _0xe1398a(0x8e)), PUBLIC_DIR = path_1[_0xe1398a(0x96)][_0xe1398a(0xa5)](FRONTEND_PATH, _0xe1398a(0x82)), ICONS_DIR = path_1[_0xe1398a(0x96)][_0xe1398a(0xa5)](PUBLIC_DIR, _0xe1398a(0x95)), TARGET_PATH_PUBLIC = path_1[_0xe1398a(0x96)][_0xe1398a(0xa5)](PUBLIC_DIR, _0xe1398a(0x8b) + 'o'), TARGET_PATH_ICONS = path_1[_0xe1398a(0x96)][_0xe1398a(0xa5)](ICONS_DIR, _0xe1398a(0x8b) + 'o'), uploadIconFile = (_0x37bcce, _0x95d1f5) => {
+        const _0x21a1a6 = _0xe1398a, _0x3780bc = {
+                'lxdCo': function (_0x24150a, _0x61584a) {
+                    return _0x24150a(_0x61584a);
+                },
+                'txiLo': function (_0x30332d, _0x435564, _0x24a67d, _0x37e90c) {
+                    return _0x30332d(_0x435564, _0x24a67d, _0x37e90c);
+                },
+                'zUnKs': function (_0x3e7e53, _0x10ee84) {
+                    return _0x3e7e53(_0x10ee84);
+                },
+                'IKnZt': function (_0x5dda2e, _0x386d22, _0x1fab5a, _0x4a3d42) {
+                    return _0x5dda2e(_0x386d22, _0x1fab5a, _0x4a3d42);
+                }
+            }, _0x16d238 = (_0x43cd0e, _0x57a417, _0x59e27e) => {
+                const _0x44c171 = _0x513b;
+                fs_1[_0x44c171(0x96)][_0x44c171(0x9c)](_0x43cd0e, _0x57a417, _0x59e27e);
+            }, _0x1f8d2f = {};
+        _0x1f8d2f[_0x21a1a6(0x85)] = !![], fs_1[_0x21a1a6(0x96)][_0x21a1a6(0x8a)](ICONS_DIR, _0x1f8d2f, _0x142e44 => {
+            const _0xa7c60f = _0x21a1a6, _0x721715 = {
+                    'vKQzJ': function (_0x193954, _0x46789f) {
+                        const _0x4fef1f = _0x513b;
+                        return _0x3780bc[_0x4fef1f(0x92)](_0x193954, _0x46789f);
+                    },
+                    'VMqGM': function (_0x48fb55, _0x3c9a5d, _0x586c95, _0x14a2f0) {
+                        const _0x425ff9 = _0x513b;
+                        return _0x3780bc[_0x425ff9(0x98)](_0x48fb55, _0x3c9a5d, _0x586c95, _0x14a2f0);
+                    }
+                };
+            if (_0x142e44)
+                return _0x3780bc[_0xa7c60f(0x7c)](_0x95d1f5, _0x142e44);
+            _0x3780bc[_0xa7c60f(0x7f)](_0x16d238, _0x37bcce, TARGET_PATH_PUBLIC, _0x35371f => {
+                const _0x1bf5ac = _0xa7c60f, _0x41c36b = {
+                        'EOXBQ': function (_0x1290eb, _0x35db67) {
+                            const _0x4f2c59 = _0x513b;
+                            return _0x721715[_0x4f2c59(0x86)](_0x1290eb, _0x35db67);
+                        },
+                        'TSgxq': function (_0x37b9f8, _0x5350e9) {
+                            const _0x12b16f = _0x513b;
+                            return _0x721715[_0x12b16f(0x86)](_0x37b9f8, _0x5350e9);
+                        }
+                    };
+                if (_0x35371f)
+                    return _0x721715[_0x1bf5ac(0x86)](_0x95d1f5, _0x35371f);
+                _0x721715[_0x1bf5ac(0x99)](_0x16d238, _0x37bcce, TARGET_PATH_ICONS, _0x1ea392 => {
+                    const _0x4c5edd = _0x1bf5ac;
+                    if (_0x1ea392)
+                        return _0x41c36b[_0x4c5edd(0x9e)](_0x95d1f5, _0x1ea392);
+                    fs_1[_0x4c5edd(0x96)][_0x4c5edd(0x94)](_0x37bcce, _0x3ba32a => {
+                        const _0x3d648b = _0x4c5edd;
+                        _0x3ba32a && console[_0x3d648b(0x7d)](_0x3d648b(0x8d) + _0x3d648b(0x9d) + _0x3d648b(0x83) + _0x3d648b(0xa0) + _0x3ba32a[_0x3d648b(0x93)]), _0x41c36b[_0x3d648b(0x87)](_0x95d1f5, null);
+                    });
+                });
+            });
+        });
+    };
+exports[_0xe1398a(0xa3) + _0xe1398a(0x90)] = uploadIconFile;
+function _0x57fa() {
+    const _0xe2bc96 = [
+        '2374551jRSvhj',
+        'File',
+        '209750EoatCU',
+        'lxdCo',
+        'message',
+        'unlink',
+        'icons',
+        'default',
+        'erty',
+        'txiLo',
+        'VMqGM',
+        '1020992QDGMkT',
+        '776284dnPSkw',
+        'copyFile',
+        'mover\x20o\x20ar',
+        'TSgxq',
+        'path',
+        'orário:\x20',
+        '__importDe',
+        'defineProp',
+        'uploadIcon',
+        'value',
+        'join',
+        '__esModule',
+        'zUnKs',
+        'error',
+        'fault',
+        'IKnZt',
+        '15QgOgny',
+        '305914mdrYFg',
+        'public',
+        'quivo\x20temp',
+        '5qOBbpq',
+        'recursive',
+        'vKQzJ',
+        'EOXBQ',
+        '130498YJiSlK',
+        '403998vHnoBv',
+        'mkdir',
+        'favicon.ic',
+        '7nfcORc',
+        'Erro\x20ao\x20re',
+        'frontend'
+    ];
+    _0x57fa = function () {
+        return _0xe2bc96;
+    };
+    return _0x57fa();
+}

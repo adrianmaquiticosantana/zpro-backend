@@ -1,0 +1,183 @@
+'use strict';
+var _0x67c7ef = _0x55a1;
+function _0x3f33() {
+    var _0x1b47e5 = [
+        'ySPsa',
+        '/fetch-dev',
+        'BEYMJ',
+        'express',
+        'defineProp',
+        'fetchCalls',
+        'default',
+        'oip',
+        'nding',
+        'create',
+        'value',
+        'FUleI',
+        '3360609dpluBX',
+        'prototype',
+        'LYazV',
+        'fault',
+        'split',
+        '33896BoaUVN',
+        'pro/x89_zp',
+        'post',
+        'faVxo',
+        'erty',
+        'getOwnProp',
+        'ppQEg',
+        'ptor',
+        'loginAndFe',
+        '../p3hbzvk',
+        'UZQkC',
+        '__esModule',
+        'qff_zpro',
+        'fetchDevic',
+        'call',
+        '/fetch-cal',
+        'FRsDB',
+        '__importDe',
+        'configurab',
+        '1130964jXewDj',
+        'h-calls',
+        'n-and-fetc',
+        'tchCalls',
+        'eDefault',
+        '0|2|1|3|4',
+        'ices',
+        'Router',
+        'hNAdT',
+        'get',
+        'Ucxeu',
+        '192195GGRiCQ',
+        'ryfIz',
+        '__importSt',
+        'hasOwnProp',
+        'ertyDescri',
+        'od_zpro/n9',
+        '36436JPITNP',
+        'pAuth',
+        'enumerable',
+        '../3bofn_z',
+        'lGbwx',
+        '/reset-wav',
+        '721920uqscOH',
+        'writable',
+        '/auth/logi',
+        '58853VVswOW',
+        '__createBi',
+        '__setModul',
+        'resetWavoi'
+    ];
+    _0x3f33 = function () {
+        return _0x1b47e5;
+    };
+    return _0x3f33();
+}
+(function (_0x5ce767, _0x1ab32d) {
+    var _0x1f6714 = _0x55a1, _0x1cc47a = _0x5ce767();
+    while (!![]) {
+        try {
+            var _0x20b4b8 = -parseInt(_0x1f6714(0x164)) / (-0x19da + -0x25d6 + 0x43f * 0xf) + -parseInt(_0x1f6714(0x19d)) / (0xf * 0x1cf + -0x1c * 0xa7 + -0x8db) + parseInt(_0x1f6714(0x197)) / (-0x1 * 0x20 + -0xf23 + 0xf46) + parseInt(_0x1f6714(0x179)) / (0x2601 + -0x1 * 0xd4e + -0x18af) + -parseInt(_0x1f6714(0x161)) / (-0x1078 + 0x12fc + -0x27f) + -parseInt(_0x1f6714(0x18c)) / (-0x200f + -0x4 * 0x524 + -0x1 * -0x34a5) + parseInt(_0x1f6714(0x174)) / (0x8 * 0x165 + -0x8b0 + -0x271);
+            if (_0x20b4b8 === _0x1ab32d)
+                break;
+            else
+                _0x1cc47a['push'](_0x1cc47a['shift']());
+        } catch (_0x43318c) {
+            _0x1cc47a['push'](_0x1cc47a['shift']());
+        }
+    }
+}(_0x3f33, -0x35c69 + -0x1d655 + 0x76013));
+function _0x55a1(_0x3be0f4, _0x20a030) {
+    var _0x4f8385 = _0x3f33();
+    return _0x55a1 = function (_0x44743b, _0xc45120) {
+        _0x44743b = _0x44743b - (0xf8b * 0x2 + -0xae * 0x2f + 0x3 * 0xbf);
+        var _0x25ec8e = _0x4f8385[_0x44743b];
+        return _0x25ec8e;
+    }, _0x55a1(_0x3be0f4, _0x20a030);
+}
+var __createBinding = this && this[_0x67c7ef(0x165) + _0x67c7ef(0x170)] || (Object[_0x67c7ef(0x171)] ? function (_0x513a17, _0x2756cf, _0x574f1f, _0x41872c) {
+        var _0x1086cf = _0x67c7ef, _0x2bb0ae = {};
+        _0x2bb0ae[_0x1086cf(0x17f)] = function (_0x5e96ef, _0x452846) {
+            return _0x5e96ef === _0x452846;
+        }, _0x2bb0ae[_0x1086cf(0x176)] = function (_0x4368fc, _0x4d352f) {
+            return _0x4368fc in _0x4d352f;
+        }, _0x2bb0ae[_0x1086cf(0x168)] = _0x1086cf(0x195);
+        var _0x43b918 = _0x2bb0ae;
+        if (_0x43b918[_0x1086cf(0x17f)](_0x41872c, undefined))
+            _0x41872c = _0x574f1f;
+        var _0x3dbc8f = Object[_0x1086cf(0x17e) + _0x1086cf(0x19b) + _0x1086cf(0x180)](_0x2756cf, _0x574f1f);
+        if (!_0x3dbc8f || (_0x43b918[_0x1086cf(0x176)](_0x43b918[_0x1086cf(0x168)], _0x3dbc8f) ? !_0x2756cf[_0x1086cf(0x184)] : _0x3dbc8f[_0x1086cf(0x162)] || _0x3dbc8f[_0x1086cf(0x18b) + 'le'])) {
+            var _0x1ba623 = {};
+            _0x1ba623[_0x1086cf(0x19f)] = !![], _0x1ba623[_0x1086cf(0x195)] = function () {
+                return _0x2756cf[_0x574f1f];
+            }, _0x3dbc8f = _0x1ba623;
+        }
+        Object[_0x1086cf(0x16c) + _0x1086cf(0x17d)](_0x513a17, _0x41872c, _0x3dbc8f);
+    } : function (_0x20bc48, _0x214b84, _0x50b022, _0x1c2a2b) {
+        var _0x1bf4d8 = _0x67c7ef, _0x119574 = {};
+        _0x119574[_0x1bf4d8(0x183)] = function (_0x456296, _0x337946) {
+            return _0x456296 === _0x337946;
+        };
+        var _0x6e2584 = _0x119574;
+        if (_0x6e2584[_0x1bf4d8(0x183)](_0x1c2a2b, undefined))
+            _0x1c2a2b = _0x50b022;
+        _0x20bc48[_0x1c2a2b] = _0x214b84[_0x50b022];
+    }), __setModuleDefault = this && this[_0x67c7ef(0x166) + _0x67c7ef(0x190)] || (Object[_0x67c7ef(0x171)] ? function (_0x2b74ba, _0xcc3002) {
+        var _0x4a2152 = _0x67c7ef, _0x42728e = {};
+        _0x42728e[_0x4a2152(0x173)] = _0x4a2152(0x16e);
+        var _0x19b6d9 = _0x42728e, _0x2a8f78 = {};
+        _0x2a8f78[_0x4a2152(0x19f)] = !![], _0x2a8f78[_0x4a2152(0x172)] = _0xcc3002, Object[_0x4a2152(0x16c) + _0x4a2152(0x17d)](_0x2b74ba, _0x19b6d9[_0x4a2152(0x173)], _0x2a8f78);
+    } : function (_0x428996, _0x355d7d) {
+        var _0x4d5388 = _0x67c7ef, _0x45c76f = {};
+        _0x45c76f[_0x4d5388(0x194)] = _0x4d5388(0x16e);
+        var _0x593e0e = _0x45c76f;
+        _0x428996[_0x593e0e[_0x4d5388(0x194)]] = _0x355d7d;
+    }), __importStar = this && this[_0x67c7ef(0x199) + 'ar'] || function (_0x529b76) {
+        var _0x5e2843 = _0x67c7ef, _0x6809ef = {
+                'Ucxeu': _0x5e2843(0x191),
+                'FRsDB': function (_0x4527df, _0x35741e) {
+                    return _0x4527df != _0x35741e;
+                },
+                'lGbwx': function (_0x2e895c, _0x2a805b) {
+                    return _0x2e895c !== _0x2a805b;
+                },
+                'faVxo': _0x5e2843(0x16e),
+                'ryfIz': function (_0x14c1a6, _0x428f01, _0x271e99, _0x5f38a9) {
+                    return _0x14c1a6(_0x428f01, _0x271e99, _0x5f38a9);
+                },
+                'BEYMJ': function (_0x485556, _0xc21d8b, _0x1ffd1c) {
+                    return _0x485556(_0xc21d8b, _0x1ffd1c);
+                }
+            }, _0x165c44 = _0x6809ef[_0x5e2843(0x196)][_0x5e2843(0x178)]('|'), _0x88ac4d = 0x117 + 0xefd + -0x1014;
+        while (!![]) {
+            switch (_0x165c44[_0x88ac4d++]) {
+            case '0':
+                if (_0x529b76 && _0x529b76[_0x5e2843(0x184)])
+                    return _0x529b76;
+                continue;
+            case '1':
+                if (_0x6809ef[_0x5e2843(0x189)](_0x529b76, null)) {
+                    for (var _0x572f78 in _0x529b76)
+                        if (_0x6809ef[_0x5e2843(0x1a1)](_0x572f78, _0x6809ef[_0x5e2843(0x17c)]) && Object[_0x5e2843(0x175)][_0x5e2843(0x19a) + _0x5e2843(0x17d)][_0x5e2843(0x187)](_0x529b76, _0x572f78))
+                            _0x6809ef[_0x5e2843(0x198)](__createBinding, _0x1ad15a, _0x529b76, _0x572f78);
+                }
+                continue;
+            case '2':
+                var _0x1ad15a = {};
+                continue;
+            case '3':
+                _0x6809ef[_0x5e2843(0x16a)](__setModuleDefault, _0x1ad15a, _0x529b76);
+                continue;
+            case '4':
+                return _0x1ad15a;
+            }
+            break;
+        }
+    }, __importDefault = this && this[_0x67c7ef(0x18a) + _0x67c7ef(0x177)] || function (_0x5017ca) {
+        var _0x82c1b3 = _0x67c7ef;
+        return _0x5017ca && _0x5017ca[_0x82c1b3(0x184)] ? _0x5017ca : { 'default': _0x5017ca };
+    }, _0x57f713 = {};
+_0x57f713[_0x67c7ef(0x172)] = !![], Object[_0x67c7ef(0x16c) + _0x67c7ef(0x17d)](exports, _0x67c7ef(0x184), _0x57f713);
+const express_1 = __importDefault(require(_0x67c7ef(0x16b))), WavoipController = __importStar(require(_0x67c7ef(0x182) + _0x67c7ef(0x19c) + _0x67c7ef(0x185))), x89_zpro_1 = __importDefault(require(_0x67c7ef(0x1a0) + _0x67c7ef(0x17a) + 'ro')), wavoipRoutes = express_1[_0x67c7ef(0x16e)][_0x67c7ef(0x193)]();
+wavoipRoutes[_0x67c7ef(0x17b)](_0x67c7ef(0x163) + _0x67c7ef(0x18e) + _0x67c7ef(0x18d), x89_zpro_1[_0x67c7ef(0x16e)], WavoipController[_0x67c7ef(0x181) + _0x67c7ef(0x18f)]), wavoipRoutes[_0x67c7ef(0x17b)](_0x67c7ef(0x188) + 'ls', x89_zpro_1[_0x67c7ef(0x16e)], WavoipController[_0x67c7ef(0x16d)]), wavoipRoutes[_0x67c7ef(0x17b)](_0x67c7ef(0x169) + _0x67c7ef(0x192), x89_zpro_1[_0x67c7ef(0x16e)], WavoipController[_0x67c7ef(0x186) + 'es']), wavoipRoutes[_0x67c7ef(0x17b)](_0x67c7ef(0x1a2) + _0x67c7ef(0x16f), x89_zpro_1[_0x67c7ef(0x16e)], WavoipController[_0x67c7ef(0x167) + _0x67c7ef(0x19e)]), exports[_0x67c7ef(0x16e)] = wavoipRoutes;
