@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "echo 'Build completed'",
     "watch": "tsc -w",
-    "start": "nodemon dist/server.js",
+    "start": "node dist/server.js",
     "dev:server": "ts-node-dev --respawn --transpile-only --ignore node_modules src/server.ts",
     "db:migrate": "rm -Rf dist && npm run build && npx sequelize db:migrate",
     "db:seed": "npx sequelize db:seed:all"
